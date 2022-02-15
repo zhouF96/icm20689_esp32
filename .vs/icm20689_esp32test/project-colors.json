@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c5f80730-f44f-4478-bdae-6634efc2ca88": {
+      "ProjectGuid": "c5f80730-f44f-4478-bdae-6634efc2ca88",
+      "DisplayName": "icm20689_esp32test",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "f8051bfb-4318-44bb-9bbd-bd7d2ca4e8f0": {
+      "ProjectGuid": "f8051bfb-4318-44bb-9bbd-bd7d2ca4e8f0",
+      "DisplayName": "Sketch1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

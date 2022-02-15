@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icm20689_esp32test.ino" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="__vm\.icm20689_esp32test.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EMDFwVersion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\VSensor\vsensorconfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\VSensor\VSensorData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\IDDVersion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\EmbUtils\dataconverter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\EmbUtils\RingByteBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\EmbUtils\Message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\EmbUtils\RingBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\EmbUtils\InvQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\EmbUtils\InvScheduler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\EmbUtils\InvProtocol.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\EmbUtils\InvAssert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\EmbUtils\InvBool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\EmbUtils\InvError.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\EmbUtils\InvExport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\EmbUtils\ErrorHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\DynamicProtocol\DynProtocolTransportUart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\DynamicProtocol\DynProtocol.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\DynamicProtocol\DynProtocolTransport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\Devices\SensorTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\Devices\SensorConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789Setup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789Transport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789SelfTest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789Serif.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789LoadFirmware.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789MPUFifoControl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789Dmp3Driver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789DataConverter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789Defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789Ctrl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\Devices\CustomCommand.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\icm20789_img.dmp3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\Invpres.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\InvpresSerif.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\icm2689_usercfg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\sensor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Invn\system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789Ctrl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789DataConverter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789Dmp3Driver.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789LoadFirmware.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789MPUFifoControl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789SelfTest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789Setup.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\Devices\Drivers\Icm20789-DMP\Icm20789Transport.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\Devices\Sensor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\DynamicProtocol\DynProtocol.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\DynamicProtocol\DynProtocolTransportUart.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\EmbUtils\DataConverter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\EmbUtils\ErrorHelper.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\EmbUtils\InvProtocol.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\EmbUtils\InvQueue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\EmbUtils\InvScheduler.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\EmbUtils\Message.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\EmbUtils\RingByteBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\Invpres.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\sensor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Invn\system.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

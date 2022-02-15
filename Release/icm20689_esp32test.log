@@ -1,0 +1,44 @@
+﻿  RingByteBuffer.c
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(16,1): warning C4005: “__ESP32_esp32s3__”: 宏重定义
+D:\repos\icm20689_esp32test\Invn\EmbUtils\RingByteBuffer.c : message : 参见“__ESP32_esp32s3__”的前一个定义
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(17,1): warning C4005: “__ESP32_ESP32S3__”: 宏重定义
+D:\repos\icm20689_esp32test\Invn\EmbUtils\RingByteBuffer.c : message : 参见“__ESP32_ESP32S3__”的前一个定义
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(18,1): warning C4005: “HAVE_CONFIG_H”: 宏重定义
+D:\repos\icm20689_esp32test\Invn\EmbUtils\RingByteBuffer.c : message : 参见“HAVE_CONFIG_H”的前一个定义
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(19,1): warning C4005: “UNITY_INCLUDE_CONFIG_H”: 宏重定义
+D:\repos\icm20689_esp32test\Invn\EmbUtils\RingByteBuffer.c : message : 参见“UNITY_INCLUDE_CONFIG_H”的前一个定义
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(20,1): warning C4005: “WITH_POSIX”: 宏重定义
+D:\repos\icm20689_esp32test\Invn\EmbUtils\RingByteBuffer.c : message : 参见“WITH_POSIX”的前一个定义
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(21,1): warning C4005: “_GNU_SOURCE”: 宏重定义
+D:\repos\icm20689_esp32test\Invn\EmbUtils\RingByteBuffer.c : message : 参见“_GNU_SOURCE”的前一个定义
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(22,1): warning C4005: “ESP_PLATFORM”: 宏重定义
+D:\repos\icm20689_esp32test\Invn\EmbUtils\RingByteBuffer.c : message : 参见“ESP_PLATFORM”的前一个定义
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(23,1): warning C4005: “_POSIX_READER_WRITER_LOCKS”: 宏重定义
+D:\repos\icm20689_esp32test\Invn\EmbUtils\RingByteBuffer.c : message : 参见“_POSIX_READER_WRITER_LOCKS”的前一个定义
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(26,1): warning C4005: “ARDUINO_ESP32S3_DEV”: 宏重定义
+D:\repos\icm20689_esp32test\Invn\EmbUtils\RingByteBuffer.c : message : 参见“ARDUINO_ESP32S3_DEV”的前一个定义
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(27,1): warning C4005: “ARDUINO_ARCH_ESP32”: 宏重定义
+D:\repos\icm20689_esp32test\Invn\EmbUtils\RingByteBuffer.c : message : 参见“ARDUINO_ARCH_ESP32”的前一个定义
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(28,1): warning C4005: “ARDUINO_PARTITION_huge_app”: 宏重定义
+D:\repos\icm20689_esp32test\Invn\EmbUtils\RingByteBuffer.c : message : 参见“ARDUINO_PARTITION_huge_app”的前一个定义
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(29,1): warning C4005: “ESP32”: 宏重定义
+D:\repos\icm20689_esp32test\Invn\EmbUtils\RingByteBuffer.c : message : 参见“ESP32”的前一个定义
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(65,19): error C2054: 在“bool”之后应输入“(”
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(66,18): error C2085: “_read”: 不在形参表中
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(67,18): error C2085: “_seek”: 不在形参表中
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(68,19): error C2085: “_write”: 不在形参表中
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(69,19): error C2085: “_close”: 不在形参表中
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(70,22): error C2085: “__cleanup”: 不在形参表中
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(79,27): error C2085: “__gnuc_va_list”: 不在形参表中
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(86,27): error C2085: “byte”: 不在形参表中
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(87,8): error C2143: 语法错误: 缺少“;”(在“字符串”的前面)
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(102,1): warning C4005: “__CHAR_BIT__”: 宏重定义
+D:\repos\icm20689_esp32test\__vm\.icm20689_esp32test.vsarduino.h(83): message : 参见“__CHAR_BIT__”的前一个定义
+C:\Users\jncho\Documents\Arduino\hardware\espressif\esp32\tools\xtensa-esp32-elf\xtensa-esp32-elf\include\sys\features.h(25,8): error C2059: 语法错误:“字符串”
+D:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.30.30705\include\sal.h(2361,8): error C2059: 语法错误:“字符串”
+D:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.30.30705\include\concurrencysal.h(22,8): error C2059: 语法错误:“字符串”
+D:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.30.30705\include\vadefs.h(51,8): error C2059: 语法错误:“字符串”
+D:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.30.30705\include\vadefs.h(171,12): error C2059: 语法错误:“字符串”
+D:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.30.30705\include\vcruntime.h(96,1): error C2059: 语法错误:“字符串”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt.h(125,1): error C2059: 语法错误:“字符串”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt.h(414,71): fatal error C1017: 无效的整数常量表达式
